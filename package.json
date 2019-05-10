@@ -43,7 +43,7 @@
         "dom-compare": "0.3.4",
         "eslint-config-airbnb-base": "^12.1.0",
         "eslint-plugin-import": "^2.17.2",
-        "@monotype/jasmine-testrail-reporter": "3.2.1"
+        "jasmine-testrail-reporter": "3.2.1"
     },
     "devDependencies": {
         "eslint": "~5.16.0",
