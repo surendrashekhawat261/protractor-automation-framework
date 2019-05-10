@@ -1,6 +1,6 @@
 ## *Important note*
 If you are working on angular app automation then don't forget to remove
-browser.waitForAngularEnabled(false); e2e\page-objects\pages\base-page.ts Line-10
+browser.waitForAngularEnabled(false); e2e\page-objects\pages\base-page.js Line-10
 
 ## Popular issue on docker
 In case if any of you come across, chrome getting 'no session' or 'chrome not reachable' on docker
