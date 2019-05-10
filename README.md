@@ -176,7 +176,7 @@ All of them are optional
 --params.testrail.password = [XXXX] - It is recommended to always pass it using continuous integration tool so it's secure it can be either a password or access key
 
 
-* Test writing instructions - Please make sure that `suite name` in test rail and in *-specs.ts is same and test case has an id append to name with bracket, Here `suite name` is defined in describe and `test id` is defined as [1].
+* Test writing instructions - Please make sure that `suite name` in test rail and in *-specs.js is same and test case has an id append to name with bracket, Here `suite name` is defined in describe and `test id` is defined as [1].
 Example
 
 ```javascript
